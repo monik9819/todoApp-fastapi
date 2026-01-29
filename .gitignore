@@ -1,3 +1,5 @@
 .env
 *.db
 postgres_scripts.sql
+.idea
+__pycache__
